@@ -68,7 +68,7 @@ Add your repository link here after uploading:
 
 Add your Netlify live link here after deployment:
 
-`YOUR-NETLIFY-LINK`
+`[YOUR-NETLIFY-LINK](https://webdev-l1-landingpage.netlify.app/?utm_source=chatgpt.com)`
 
 ## Internship Requirements Covered
 
