@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background: #080808;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.converter-container {
+    width: 100%;
+    max-width: 520px;
+}
+
+.converter-card {
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 20px;
+    padding: 35px;
+    box-shadow: 0 0 35px rgba(255, 115, 0, 0.12);
+}
+
+.task-label {
+    color: #ff7300;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #aaa;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #ddd;
+    font-size: 14px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 14px 15px;
+    background: #181818;
+    color: #fff;
+    border: 1px solid #444;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+}
+
+input:focus,
+select:focus {
+    border-color: #ff7300;
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background: #ff7300;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: translateY(-5px);
+    background: #ff8c2a;
+    /* transform: translateY(-2px); */
+}
+
+#errorMessage {
+    min-height: 22px;
+    margin-top: 15px;
+    color: #ff5c5c;
+    text-align: center;
+    font-size: 14px;
+}
+
+.results {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-top: 15px;
+}
+
+.result-box {
+    background: #181818;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 18px 10px;
+    text-align: center;
+    transition: 0.3s ease;
+}
+
+.result-box:hover {
+    transform: translateY(-5px);
+    border-color: #ff7300;
+    box-shadow: 0 0 20px rgba(255, 115, 0, 0.25);
+}
+
+
+.result-box span {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.result-box strong {
+    color: #ff7300;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+    color: #f18706e0;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+@media (max-width: 500px) {
+
+    .converter-card {
+        padding: 25px 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    .results {
+        grid-template-columns: 1fr;
+    }
+}
