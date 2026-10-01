@@ -1,6 +1,6 @@
-## Oasis Infobyte Internship
+# Oasis Infobyte Internship
 
-# Task 1 - Landing Page 
+## Task 1 - Landing Page 
 
 **Track:** Web Development & Designing  
 **Level:** Level 1  
