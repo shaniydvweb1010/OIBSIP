@@ -1,11 +1,45 @@
-#### *TASK 3 · Temperature Converter*
+## OIBSIP Infobyte Internship
 
-A responsive temperature converter built using **HTML5, CSS3, and Vanilla JavaScript**.
+## Track: Web Development & Designing
 
-- Celsius, Fahrenheit & Kelvin conversion
-- Input validation
-- Absolute zero validation
-- Responsive UI
-- Interactive hover effects
+## Level - 1
 
-🔗 [View Task 3](./WebDev-L3-TemperatureConverter)
+## Task: Task 3 🎉 - Temperature Converter Completed! ✅
+
+An interactive temperature converter website created as part of the **Oasis Infobyte Web Development & Designing Internship**.
+
+## Tech Stack: HTML5 • CSS3 • JavaScript
+
+## Features:
+
+Celsius, Fahrenheit & Kelvin conversion
+Numeric input validation
+Absolute zero validation
+Convert button
+Converted result display
+Responsive design
+Interactive hover effects
+Clean and user-friendly UI
+
+### 📁 Project Structure
+
+WebDev-L3-TemperatureConverter/
+│
+├── index.html
+├── style.css
+└── script.js
+
+## 🎯 Internship
+
+Oasis Infobyte — Web Development & Designing Internship
+
+## 🔗 Links
+
+GitHub: https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L3-TemperatureConverter
+LinkedIn: https://linkedin.com/in/shani-yadav-45841534
+
+👤 Author
+
+## Shani Yadav
+
+BSc Computer Science Graduate | Full Stack Developer Trainee
