@@ -1,5 +1,9 @@
-## 🚀 OIBSIP Task 2 — Completed ✅
-## Task 2: Personal Portfolio Website
+##  OIBSIP Infobyte Internship
+
+## Track: Web Development & Designing
+
+## Level - 1
+## Task: Task 2 🎉 - Personal Portfolio Completed! ✅
 A modern, responsive personal portfolio website created as part of the **Oasis Infobyte Web Development & Designing Internship**.
 
 ## Tech Stack: HTML5 • CSS3 • JavaScript
