@@ -10,15 +10,15 @@ This repository contains the projects and tasks completed during my **Web Develo
 
 ## 📂 Projects
 
-### 1. Landing Page
+### 1. Landing Page ✅
 
 A responsive landing page created using HTML and CSS.
 
-### 2. Personal Portfolio
+### 2. Personal Portfolio ✅
 
 A personal portfolio website showcasing my skills, projects, education, and contact information.
 
-### 3. Temperature Converter
+### 3. Temperature Converter ✅
 
 A simple web application that converts temperature between Celsius, Fahrenheit, and other units using JavaScript.
 
