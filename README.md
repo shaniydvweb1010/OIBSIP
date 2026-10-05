@@ -1,34 +1,187 @@
-# OIBSIP – Web Development Internship
+# Oasis Infobyte Internship
 
-This repository contains the projects and tasks completed during my **Web Development Internship at Oasis Infobyte (OIBSIP)**.
+## Track: Web Development & Designing
 
-## Technologies Used
+This repository contains my projects completed as part of the **Oasis Infobyte Web Development & Designing Internship**.
+
+---
+
+# Level - 1
+
+## Task: Task 1 🎉Shaniyadav - Landing Page Completed! ✅
+
+### Objective
+
+Build a visually polished static landing page for a product, service, or brand using HTML5 and CSS3.
+
+### Project
+
+**WebNova - Digital Web Solutions**
+
+### Technologies Used
 
 * HTML5
 * CSS3
-* JavaScript
+* CSS Flexbox
+* CSS Grid
+* Responsive Media Queries
 
-## 📂 Projects
+### Features
 
-### 1. Landing Page ✅
+* Sticky navigation bar
+* Navigation links
+* Hero section
+* Headline and subheadline
+* Call-to-action buttons
+* Features section
+* About/project section
+* Contact call-to-action section
+* Responsive design
+* Clean typography and spacing
 
-A responsive landing page created using HTML and CSS.
+### 📁 Project Structure
 
-### 2. Personal Portfolio ✅
+```text
+WebDev-L1-LandingPage/
+├── index.html
+├── style.css
+└── README.md
+```
 
-A personal portfolio website showcasing my skills, projects, education, and contact information.
+### 🔗 Links
 
-### 3. Temperature Converter ✅
+**GitHub:**
+https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L1-LandingPage
 
-A simple web application that converts temperature between Celsius, Fahrenheit, and other units using JavaScript.
+**Live Demo:**
+https://webdev-l1-landingpage.netlify.app
 
-## 🎯 Internship Objective
+**LinkedIn:**
+https://linkedin.com/in/shani-yadav-45841534
 
-The internship helped me improve my practical skills in **frontend web development, responsive design, and JavaScript** through hands-on projects.
+---
 
-## 👨‍💻 Author
+## Task: Task 2 🎉Shaniyadav - Personal Portfolio Completed! ✅
+
+A modern, responsive personal portfolio website created as part of the **Oasis Infobyte Web Development & Designing Internship**.
+
+### Tech Stack
+
+**HTML5 • CSS3 • JavaScript**
+
+### Features
+
+* Responsive design
+* About Me section
+* Skills & technologies
+* Project showcase
+* Education & certifications
+* Contact section
+* Smooth scrolling
+* Interactive UI elements
+
+### 📁 Project Structure
+
+```text
+WebDev-L2-PersonalPortfolio/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── shani yadav image.jpeg
+```
+
+### 🔗 Links
+
+**GitHub:**
+https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L2-PersonalPortfolio
+
+**LinkedIn:**
+https://linkedin.com/in/shani-yadav-45841534
+
+---
+
+## Task: Task 3 🎉Shaniyadav - Temperature Converter Completed! ✅
+
+An interactive temperature converter website created as part of the **Oasis Infobyte Web Development & Designing Internship**.
+
+### Tech Stack
+
+**HTML5 • CSS3 • JavaScript**
+
+### Features
+
+* Celsius, Fahrenheit & Kelvin conversion
+* Numeric input validation
+* Absolute zero validation
+* Convert button
+* Converted result display
+* Responsive design
+* Interactive hover effects
+* Clean and user-friendly UI
+
+### 📁 Project Structure
+
+```text
+WebDev-L3-TemperatureConverter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+### 🔗 Links
+
+**GitHub:**
+https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L3-TemperatureConverter
+
+**LinkedIn:**
+https://linkedin.com/in/shani-yadav-45841534
+
+---
+
+# 📂 Repository Structure
+
+```text
+OIBSIP/
+│
+├── WebDev-L1-LandingPage/
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
+├── WebDev-L2-PersonalPortfolio/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   ├── README.md
+│   └── shani yadav image.jpeg
+│
+├── WebDev-L3-TemperatureConverter/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+# 🎯 Internship
+
+**Oasis Infobyte — Web Development & Designing Internship**
+
+## 👤 Author
 
 **Shani Yadav**
 
-GitHub: [@shaniydvweb1010](https://github.com/shaniydvweb1010)
+**BSc Computer Science Graduate | Full Stack Developer Trainee**
 
+### 🔗 Connect With Me
+
+**GitHub:**
+https://github.com/shaniydvweb1010
+
+**LinkedIn:**
+https://linkedin.com/in/shani-yadav-45841534
