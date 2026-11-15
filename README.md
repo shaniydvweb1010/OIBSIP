@@ -93,6 +93,9 @@ WebDev-L2-PersonalPortfolio/
 
 ### 🔗 Links
 
+**Live Demo:**
+https://shaniyadavportfolio1010.netlify.app/
+
 **GitHub:**
 https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L2-PersonalPortfolio
 
