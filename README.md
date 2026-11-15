@@ -50,11 +50,11 @@ WebDev-L1-LandingPage/
 
 ### 🔗 Links
 
-**GitHub:**
-https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L1-LandingPage
-
 **Live Demo:**
 https://webdev-l1-landingpage.netlify.app
+
+**GitHub:**
+https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L1-LandingPage
 
 **LinkedIn:**
 https://linkedin.com/in/shani-yadav-45841534
@@ -134,6 +134,9 @@ WebDev-L3-TemperatureConverter/
 ```
 
 ### 🔗 Links
+
+**Live Demo:**
+https://temperature-converter-01.netlify.app/
 
 **GitHub:**
 https://github.com/shaniydvweb1010/OIBSIP/tree/main/WebDev-L3-TemperatureConverter
